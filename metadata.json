@@ -1,0 +1,6 @@
+{
+  "name": "AutoBot IA - Executor Autônomo de Tarefas",
+  "description": "Plataforma com IA integrada e Bot autônomo para planejar, gerar textos e executar fluxos de tarefas automatizadas no sistema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
